@@ -1,0 +1,9 @@
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Release\SpicetifyInstaller.exe.config
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Release\SpicetifyInstaller.exe
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Release\SpicetifyInstaller.pdb
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Release\SpicetifyInstaller.Form1.resources
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Release\SpicetifyInstaller.Properties.Resources.resources
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Release\SpicetifyInstaller.csproj.GenerateResource.cache
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Release\SpicetifyInstaller.csproj.CoreCompileInputs.cache
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Release\SpicetifyInstaller.exe
+C:\Users\explo\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Release\SpicetifyInstaller.pdb
